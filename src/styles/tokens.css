@@ -1,0 +1,24 @@
+:root {
+  --brand: #43aab4;
+  --brand-dark: #268b98;
+  --brand-soft: #e1f4f5;
+  --blue: #3d87e9;
+  --blue-dark: #266dcc;
+  --page: #f3f9fb;
+  --surface: #ffffff;
+  --muted-surface: #f7fafc;
+  --text: #142c4b;
+  --secondary: #607891;
+  --border: #e2edf3;
+  --success: #148763;
+  --warning: #9c680a;
+  --danger: #d23e57;
+  --radius: 18px;
+  --shadow: 0 5px 22px #25587806;
+  font-family: 'Inter', sans-serif;
+  color: var(--text);
+  background: var(--page);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
